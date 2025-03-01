@@ -35,7 +35,7 @@ I gathered historical data from 2020 to 2023 to analyze trade patterns and built
 
 ## View the Dashboard
 
-[Click here to view the Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/simon.cordero5657/viz/ProjectedImpactofTrumpsTariffPlanontheTechnologySectorinAsia/Dashboard1?publish=yes)
+
 
 ---
 
